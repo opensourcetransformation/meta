@@ -1,18 +1,4 @@
 ---
-Listen:
-  subdomain: listen-protocol
-  summary: Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-  home_page: listen
-  icon: icon-user-md
-Meet:
-  subdomain: meet-protocol
-  summary: Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-  home_page: index
-  icon: icon-briefcase
-Personal Alignment Express:
-  subdomain: personal-alignment-express
-  summary: Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-  home_page: personal-alignment-express
-  icon: icon-hand-up
-
-  
+Compersion:
+  subdomain: compersion
+  icon: icon-heart
