@@ -17,13 +17,6 @@ Examples
 * Example 2
 * Example 3
 
-Commitments
-===========
-
-* Commitment 1
-* Commitment 2
-* Commitment 3
-
 Notes
 =====
 
